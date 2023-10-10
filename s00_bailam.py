@@ -28,5 +28,6 @@ sumtwoint(None, None) | None
 
 #region bailam
 def sumtwoint(i1, i2):
-  return 'todo'
+    total = i1 - i2
+    return total
 #endregion bailam
